@@ -1,0 +1,7 @@
+{
+  "name": "Nhân viên Di sản số Nghĩa Đô",
+  "description": "Chatbot tương tác với nhân vật robot 3D tìm hiểu về Di sản nghề làm giấy sắc phong phường Nghĩa Đô, dòng họ Lại, Nhà thờ tổ nghề và nghệ nhân Lại Phú Thạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
